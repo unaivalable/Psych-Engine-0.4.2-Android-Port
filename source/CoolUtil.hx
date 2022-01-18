@@ -16,6 +16,7 @@ class CoolUtil
 		['Easy', '-easy'],
 		['Normal', ''],
 		['Hard', '-hard']
+		['ERECT '-erect']
 	];
 
 	public static function difficultyString():String
